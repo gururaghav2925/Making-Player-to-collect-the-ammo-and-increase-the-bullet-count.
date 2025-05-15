@@ -1,11 +1,11 @@
-# 🎮 Ammo Collection and Bullet Spawn System in Unreal Engine
+# EX NO : 5 Ammo Collection and Bullet Spawn System in Unreal Engine
 
-## 🎯 Aim
+##  Aim
 To implement a gameplay feature where the player collects ammo pickups in the game world. Upon collecting ammo, the player's ammo count increases, enabling more bullet spawns (shots).
 
 ---
 
-## 🛠️ Procedure
+##  Procedure
 
 ### 1. Setup Player Character
 
@@ -54,7 +54,7 @@ To implement a gameplay feature where the player collects ammo pickups in the ga
 ![image](https://github.com/user-attachments/assets/e28cfc27-f127-40cf-94ba-e95d5fa1901f)
 
 
-## ✅ Result
+##  Result
 
 - The player starts with a limited number of bullets.
 - When the player overlaps with an ammo pickup:
